@@ -23,6 +23,9 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(foo)
 ## basic example code
+com <- c(1, 2, 3)
+my_shannon(com)
+#> [1] 1.011404
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?
