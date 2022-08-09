@@ -13,7 +13,8 @@ The goal of foo is to …
 You can install the development version of foo like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+URL: https://github.com/Juanmontenegro99/foo
+BugReports: https://github.com/Juanmontenegro99/foo/issues
 ```
 
 ## Example
