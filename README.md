@@ -4,6 +4,8 @@
 # foo
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/Juanmontenegro99/foo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Juanmontenegro99/foo/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of foo is to …
@@ -13,6 +15,7 @@ The goal of foo is to …
 You can install the development version of foo like so:
 
 ``` r
+remotes::install_github("Juanmontenegro99/foo")
 URL: https://github.com/Juanmontenegro99/foo
 BugReports: https://github.com/Juanmontenegro99/foo/issues
 ```
